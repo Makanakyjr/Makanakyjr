@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Makanakyjr
-- 👀 I’m interested in creating moble apps
+- 👀 I’m interested in creating mobile apps
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
 -  email = olayinkakenahmed@gmail.com
 
 <!---
