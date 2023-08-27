@@ -9,6 +9,10 @@
   <a href="https://github.com/Makanakyjr/Makanakyjr" width="250px">
     <img src="https://github-readme-stats.vercel.app/api?username=Makanakyjr&count_private=true&show_icons=true&theme=chartreuse-dark">
   </a>
+  
+  <a href="https://github.com/Allename/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makanakyjr&theme=chartreuse-dark" height="197px">
+  </a>
 </div>
 <!---
 Makanakyjr/Makanakyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
