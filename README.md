@@ -1,6 +1,5 @@
 -  Hi, I’m Ahmed Olayinka
--  I’m interested in creating mobile apps
--  I’m currently learning flutter
+-  I’m a Flutter Engineer
 -  email: olayinkakenahmed@gmail.com
 -  twitter: @Makanaky_jr
 
